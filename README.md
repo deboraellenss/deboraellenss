@@ -4,7 +4,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonada por resolver problemas utilizando a programação e por modelagem de dados.
-Sou uma Developer/Engenheira de Dados em andamento :computer:
+Sou uma Developer/Engenheira de Dados em andamento :bowtie: :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Accenture**, Programando com a **Rocketseat** e cursando Pós-Graduação em Engenharia de Software
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
